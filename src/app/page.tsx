@@ -725,7 +725,7 @@ export default function CalculatorPage() {
                 <span className="hidden sm:inline">论文</span>
               </a>
               <a
-                href="https://github.com/llm-scaling-calculator"
+                href="https://github.com/DeliWang/LLM-Scaling-Law-Calculator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-3 py-2 text-sm text-muted-foreground hover:text-foreground bg-muted/60 hover:bg-accent border border-border rounded-lg transition-colors"
