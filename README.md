@@ -26,6 +26,8 @@
 
 LLM Scaling Law Calculator 是一个交互式的 Web 应用，帮助研究人员和工程师快速估算大语言模型训练所需的计算资源、数据量和训练时间。
 
+在线体验：[https://aitool.coze.site/](https://aitool.coze.site/)
+
 基于论文 [arXiv:2508.06617](https://arxiv.org/abs/2508.06617) 提出的缩放律公式，本工具支持：
 
 - **稠密模型 (Dense Model)** 计算
